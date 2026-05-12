@@ -1,4 +1,4 @@
-# 
+# Enhance Final Cut Pro for macOS with Final Cut Pro for macOS custom Addon: time-remapping & version-history, the #1 addon. Includes time-remapping and version-history for a
 
 
 
